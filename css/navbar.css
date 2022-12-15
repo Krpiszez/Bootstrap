@@ -1,0 +1,14 @@
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    color:aqua;
+}
+.nav-link {
+    color:brown;
+}
+.navbar-nav{
+    color:blue;
+    --bs-nav-link-disabled-color: white;
+}
+.bg-secondary{
+    background-color: blueviolet! important;
+    border-radius: 1rem;
+}
